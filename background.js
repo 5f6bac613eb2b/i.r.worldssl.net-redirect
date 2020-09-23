@@ -1,4 +1,4 @@
-const oldReddit = "https://old.reddit.com";
+const oldReddit = "https://i.r.worldssl.net";
 const excludedPaths = [
   "/gallery",
   "/poll",
@@ -20,11 +20,7 @@ chrome.webRequest.onBeforeRequest.addListener(
   },
   {
     urls: [
-      "*://reddit.com/*",
-      "*://www.reddit.com/*",
-      "*://np.reddit.com/*",
-      "*://new.reddit.com/*",
-      "*://amp.reddit.com/*",
+      "*://vidlii.com/*",
     ],
     types: [
       "main_frame",
