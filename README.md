@@ -1,4 +1,4 @@
-# Old Reddit Redirect
+# Old Reddit Redirect forked for i.r.worldssl.net
 
 [Chrome extension](https://chrome.google.com/webstore/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje)
 
