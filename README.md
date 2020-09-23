@@ -1,5 +1,9 @@
 # Old Reddit Redirect forked for i.r.worldssl.net
 
+YOU NEED TO ADD THIS MANUALLY
+
+old readme:
+
 [Chrome extension](https://chrome.google.com/webstore/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje)
 
 [Firefox extension](https://addons.mozilla.org/firefox/addon/old-reddit-redirect)
